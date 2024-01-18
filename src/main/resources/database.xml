@@ -1,0 +1,10 @@
+<database>
+    <connection>
+        <unit-name>com/etu1999/finals5</unit-name>
+        <driver>org.postgresql.Driver</driver>
+        <url>jdbc:postgresql://127.0.0.1:5432</url>
+        <dbname>docteur</dbname>
+        <user>rakharrs</user>
+        <password>pixel</password>
+    </connection>
+</database>
